@@ -14,6 +14,6 @@ Onde o usuário que deseja dar aulas pode se registrar com informações sobre a
 * contatar professores
 
 ## Landing Page
-![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
+![GitHub Logo](/landing_page.png)Format: ![Alt Text](url)
 
 Este repositório terá uma branch com o projeto na versao 1, e outra com a versão 2 onde será implementado mais funcionalidades e correções de bugs 
