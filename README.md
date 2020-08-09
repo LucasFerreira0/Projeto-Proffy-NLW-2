@@ -21,4 +21,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 ## Landing Page Mobile
 ![GitHub Logo](/images/Mobile/landing_page.png) 
 
-
+## Tecnologias 
+* express
+* nunjucks
+* sqlite-async
