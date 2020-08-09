@@ -8,6 +8,8 @@ estarei atualizando este repositório conforme as implementações no projeto.
 O projeto web Proffy é uma plataforma de aulas online, que facilita o contato aluno e professor.
 Onde o usuário que deseja dar aulas pode se registrar com informações sobre a aula e contato, como o número de whatsapp. Assim usuários que estejam interessados em ter aulas online, possa ter o contato de professores cadastrados na plataforma.
 
+Este repositório terá uma branch com o projeto na versao 1, e outra com a versão 2 onde será implementado mais funcionalidades e correções de bugs 
+
 ## Funcionalidades 
 * Registrar professor 
 * listar e filtrar professores por aula, dia e hora 
@@ -19,4 +21,4 @@ Onde o usuário que deseja dar aulas pode se registrar com informações sobre a
 ## Landing Page Mobile
 ![GitHub Logo](/images/Mobile/landing_page.png) 
 
-Este repositório terá uma branch com o projeto na versao 1, e outra com a versão 2 onde será implementado mais funcionalidades e correções de bugs 
+
