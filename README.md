@@ -13,10 +13,10 @@ Onde o usuário que deseja dar aulas pode se registrar com informações sobre a
 * listar e filtrar professores por aula, dia e hora 
 * contatar professores
 
-## Landing Page
+## Landing Page Desktop
 ![GitHub Logo](/images/landing_Page.png)
 
-## Page Study
+## Page Study Desktop
 ![GitHub Logo](/images/page_study.png)
 
 Este repositório terá uma branch com o projeto na versao 1, e outra com a versão 2 onde será implementado mais funcionalidades e correções de bugs 
