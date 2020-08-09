@@ -25,3 +25,10 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 * express
 * nunjucks
 * sqlite-async
+
+## Como executar o projeto no desktop
+* git clone https://github.com/LucasFerreira0/Projeto-Proffy-NLW-2
+* Entre na pasta clonada
+* npm install
+* npm run dev
+* http://localhost:5500/
