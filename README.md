@@ -17,6 +17,6 @@ Onde o usuário que deseja dar aulas pode se registrar com informações sobre a
 ![GitHub Logo](/images/landing_Page_desktop.png)
 
 ## Page Study Desktop
-![GitHub Logo](/images/landing_Page_mobile.png) ![GitHub Logo](/images/landing_Page_mobile.png)
+![GitHub Logo](/images/landing_Page_mobile.png)                     ![GitHub Logo](/images/landing_Page_mobile.png)
 
 Este repositório terá uma branch com o projeto na versao 1, e outra com a versão 2 onde será implementado mais funcionalidades e correções de bugs 
