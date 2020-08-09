@@ -3,9 +3,6 @@
 Este Projeto foi desenvolvido por mim durante o evento Next Level Week da Rocketseat,
 estarei atualizando este repositório conforme as implementações no projeto.
 
-## Link do site
-d
-
 ## Descrição do projeto
 
 O projeto web Proffy é uma plataforma de aulas online, que facilita o contato aluno e professor.
