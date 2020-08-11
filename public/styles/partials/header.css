@@ -5,12 +5,13 @@
     flex-direction:column;
 }
 .page-header .top-bar-container{
-    width:90%;
-    margin:0 auto;
-    padding:1.6rem 0;
+    background-color:var(--color-primary-darker);
+    width:100vw;
+    padding:1.6rem 2.6rem;
     display:flex;
     align-items:center;
     justify-content:space-between;
+    color: var(--color-primary-lighter);
 }
 .page-header .top-bar-container a{
     height:3.2rem;
@@ -46,7 +47,7 @@
         height:340px;
     }
     .page-header .top-bar-container{
-        max-width:1100px;
+        padding:1.6rem 15rem;
     }
     .page-header .header-content{
         display:flex;

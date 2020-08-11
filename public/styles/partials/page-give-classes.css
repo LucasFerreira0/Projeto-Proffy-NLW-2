@@ -12,8 +12,8 @@
     color:var(--color-text-in-primary);
     margin-top:2.4rem;
 }
-.page-header .header-content{
-    max-width:74rem !important; 
+#give-classes .page-header .header-content{
+    max-width:74rem; 
 }
 
 #give-classes fieldset{
