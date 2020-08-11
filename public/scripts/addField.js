@@ -9,6 +9,6 @@ function cloneField(){
     })
 
     document.querySelector("#schedule-items").appendChild(newFieldContainer)
-    console.log(fields)
+    // console.log(fields)
 
 }
