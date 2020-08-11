@@ -54,6 +54,8 @@ async function pageStudy(req,res){
 function pageGiveClasses(req, res){
     return res.render("give-classes.html", {subjects, weekdays})
 }
+
+let queryString
 async function saveClasses(req, res){
     const createProffy = require("./database/createProffy")
     const db = await database
@@ -79,19 +81,26 @@ async function saveClasses(req, res){
     try{
         await createProffy(db, {proffyValue, classValue, classScheduleValue})
 
-        let queryString = "?subject="+req.body.subject
+        queryString = "?subject="+req.body.subject
         queryString += "&weekday="+req.body.weekday[0]
         queryString += "&time="+req.body.time_from[0]
 
-        return res.redirect("/study"+queryString)
+        return res.redirect("/page-success")
+
     }catch(error){
         console.log(error)
     }
 }
 
+function redirectSuccess(req,res){
+    return res.render("page-success.html", {queryString})
+}
+
+
 module.exports = {
     pageLanding,
     pageStudy,
     pageGiveClasses,
-    saveClasses
+    saveClasses,
+    redirectSuccess
 }
