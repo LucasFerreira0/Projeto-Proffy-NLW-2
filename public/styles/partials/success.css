@@ -1,3 +1,7 @@
+:root{
+    font-size: 60%;
+}
+
 #page-success{
     background-image:url(../../images/success-background.svg);
     background-color: var(--color-primary);
@@ -23,6 +27,7 @@
     color: #ffff;
     font-family: Poppins;
     text-align: center;
+    
 }
 #container button{
     padding:.8rem;
@@ -44,3 +49,8 @@
     background:var(--color-secondary-dark);
 }
 
+@media(min-width:700px){
+    :root{
+        font-size: 70%;
+    }
+}
