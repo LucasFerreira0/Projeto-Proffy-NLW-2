@@ -16,7 +16,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 * contatar professores
 
 ## Landing Page Desktop
-![GitHub Logo](/images/Desktop/landing_page2.png)
+![GitHub Logo](/images/Desktop/landing-page2.png)
 
 ## Landing Page Mobile
 ![GitHub Logo](/images/Mobile/landing_page.png) 
