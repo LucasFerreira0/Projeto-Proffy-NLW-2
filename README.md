@@ -19,7 +19,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 ![GitHub Logo](/images/Desktop/landing-page2.png)
 
 ## Landing Page Mobile
-![GitHub Logo](/images/Mobile/landing_page.png) 
+![GitHub Logo](/images/Mobile/landing_page2.png) 
 
 ## Tecnologias 
 * express
