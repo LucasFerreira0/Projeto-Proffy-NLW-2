@@ -24,7 +24,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 ## Tecnologias 
 * express
 * nunjucks
-* sqlite-async
+* sqlite
 
 ## Como executar o projeto no desktop
 * git clone https://github.com/LucasFerreira0/Projeto-Proffy-NLW-2
