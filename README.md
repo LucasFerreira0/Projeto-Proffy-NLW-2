@@ -24,7 +24,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 ## Tecnologias 
 * HTML
 * CSS
-* JavaScrip
+* JavaScript
 * express
 * nunjucks
 * sqlite
