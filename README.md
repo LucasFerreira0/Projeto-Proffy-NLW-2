@@ -37,7 +37,7 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 * http://localhost:5500/
 
 ## Como executar o projeto com Gitpod
-* gitpod.io/#/https://github.com/LucasFerreira0/Projeto-Proffy-NLW-2/edit/master/
+* copie e cole no navegador: gitpod.io/#/https://github.com/LucasFerreira0/Projeto-Proffy-NLW-2/edit/master/
 * npm install
 * npm run dev
 * na aba do terminal tem uma opção Open ports la tera a porta com o aplicativo, selecione Open Browser ou Open Preview 
