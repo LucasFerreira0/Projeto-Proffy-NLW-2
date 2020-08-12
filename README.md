@@ -22,6 +22,9 @@ Este repositório terá uma branch com o projeto na versao 1, e outra com a vers
 ![GitHub Logo](/images/Mobile/landing-page2.png) 
 
 ## Tecnologias 
+* HTML
+* CSS
+* JavaScrip
 * express
 * nunjucks
 * sqlite
