@@ -1,0 +1,26 @@
+name: "Deploy ERP"
+
+on:
+  push:
+    branches:
+      - master
+      - production
+
+jobs:
+  deploy:
+    name: "Deploy NUVEM"
+    runs-on: ubuntu-20.04
+
+    defaults:
+      run:
+        shell: bash
+
+    permissions: write-all
+
+    steps:
+      - name: Checkout repositório erp-php-infra para rodar comandos ansible
+        uses: actions/checkout@v2
+        with:
+          repository: "resultfacil/erp-php-infra"
+          ref: master
+          token: ${{secrets.TOKEN1}} 
